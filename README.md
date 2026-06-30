@@ -41,3 +41,4 @@ src/
 └── App.tsx                    # Wires data + filter state + grid together
 ```
 
+<img width="1890" height="902" alt="image" src="https://github.com/user-attachments/assets/1ad3f6f0-0c69-4e89-a75c-76605b2f836a" />
