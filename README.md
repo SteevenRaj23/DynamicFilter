@@ -13,7 +13,7 @@ npm run lint
 ```
 src/
 ├── types/
-│   ├── filter.types.ts        # Generic filter system types — zero domain knowledge
+│   ├── filter.types.ts        # Generic filter system types 
 │   └── employee.types.ts      # Employee domain model
 ├── config/
 │   ├── operators.ts           # FieldType -> operator list (single source of truth)
